@@ -1,0 +1,325 @@
+"Name","year","gender_equality"
+"Aceh",2010,53.4
+"Sumatera Utara",2010,67.78
+"Sumatera Barat",2010,63.04
+"Riau",2010,65.14
+"Jambi",2010,57.91
+"Sumatera Selatan",2010,67.32
+"Bengkulu",2010,68.5
+"Lampung",2010,65.32
+"Bangka Belitung",2010,55.62
+"Kepulauan Riau",2010,56.7
+"DKI Jakarta",2010,73.23
+"Jawa Barat",2010,67.01
+"Jawa Tengah",2010,67.96
+"DI Yogyakarta",2010,77.7
+"Jawa Timur",2010,67.91
+"Banten",2010,65.66
+"Bali",2010,58.53
+"Nusa Tenggara Barat",2010,54.49
+"Nusa Tenggara Timur",2010,57.98
+"Kalimantan Barat",2010,55.26
+"Kalimantan Tengah",2010,68.62
+"Kalimantan Selatan",2010,62.53
+"Kalimantan Timur",2010,60.05
+"Kalimantan Utara",2010,NA
+"Sulawesi Utara",2010,71.2
+"Sulawesi Tengah",2010,65.37
+"Sulawesi Selatan",2010,62.46
+"Sulawesi Tenggara",2010,64.26
+"Gorontalo",2010,61.35
+"Sulawesi Barat",2010,63.15
+"Maluku",2010,75.94
+"Maluku Utara",2010,58.17
+"Papua Barat",2010,57.97
+"Papua",2010,55.42
+"Aceh",2011,52.06
+"Sumatera Utara",2011,67.39
+"Sumatera Barat",2011,64.62
+"Riau",2011,65.34
+"Jambi",2011,58.89
+"Sumatera Selatan",2011,68.34
+"Bengkulu",2011,69.33
+"Lampung",2011,65.86
+"Bangka Belitung",2011,56.03
+"Kepulauan Riau",2011,60.62
+"DKI Jakarta",2011,74.7
+"Jawa Barat",2011,68.08
+"Jawa Tengah",2011,68.99
+"DI Yogyakarta",2011,77.84
+"Jawa Timur",2011,68.62
+"Banten",2011,66.58
+"Bali",2011,58.59
+"Nusa Tenggara Barat",2011,56.57
+"Nusa Tenggara Timur",2011,58.9
+"Kalimantan Barat",2011,56.39
+"Kalimantan Tengah",2011,69.48
+"Kalimantan Selatan",2011,66.61
+"Kalimantan Timur",2011,61.29
+"Kalimantan Utara",2011,NA
+"Sulawesi Utara",2011,73.34
+"Sulawesi Tengah",2011,66.08
+"Sulawesi Selatan",2011,63.38
+"Sulawesi Tenggara",2011,65.26
+"Gorontalo",2011,62.12
+"Sulawesi Barat",2011,63.71
+"Maluku",2011,76.51
+"Maluku Utara",2011,59.38
+"Papua Barat",2011,57.54
+"Papua",2011,57.74
+"Aceh",2012,54.44
+"Sumatera Utara",2012,69.82
+"Sumatera Barat",2012,65.22
+"Riau",2012,69.05
+"Jambi",2012,61.52
+"Sumatera Selatan",2012,66.78
+"Bengkulu",2012,69.57
+"Lampung",2012,67.24
+"Bangka Belitung",2012,56.54
+"Kepulauan Riau",2012,59.32
+"DKI Jakarta",2012,76.14
+"Jawa Barat",2012,68.62
+"Jawa Tengah",2012,70.82
+"DI Yogyakarta",2012,75.57
+"Jawa Timur",2012,69.29
+"Banten",2012,65.53
+"Bali",2012,58.49
+"Nusa Tenggara Barat",2012,57.9
+"Nusa Tenggara Timur",2012,59.55
+"Kalimantan Barat",2012,59.34
+"Kalimantan Tengah",2012,70.35
+"Kalimantan Selatan",2012,68.4
+"Kalimantan Timur",2012,61.84
+"Kalimantan Utara",2012,NA
+"Sulawesi Utara",2012,75
+"Sulawesi Tengah",2012,67.96
+"Sulawesi Selatan",2012,63.88
+"Sulawesi Tenggara",2012,65.86
+"Gorontalo",2012,62.08
+"Sulawesi Barat",2012,64.25
+"Maluku",2012,78.72
+"Maluku Utara",2012,59.84
+"Papua Barat",2012,58.46
+"Papua",2012,57.76
+"Aceh",2013,59.78
+"Sumatera Utara",2013,70.08
+"Sumatera Barat",2013,65.4
+"Riau",2013,69.78
+"Jambi",2013,66.19
+"Sumatera Selatan",2013,70.41
+"Bengkulu",2013,73.45
+"Lampung",2013,65.62
+"Bangka Belitung",2013,57.29
+"Kepulauan Riau",2013,60.79
+"DKI Jakarta",2013,77.43
+"Jawa Barat",2013,67.57
+"Jawa Tengah",2013,71.22
+"DI Yogyakarta",2013,76.36
+"Jawa Timur",2013,70.77
+"Banten",2013,65.49
+"Bali",2013,61.5
+"Nusa Tenggara Barat",2013,58.54
+"Nusa Tenggara Timur",2013,59.81
+"Kalimantan Barat",2013,58.78
+"Kalimantan Tengah",2013,68.61
+"Kalimantan Selatan",2013,65.6
+"Kalimantan Timur",2013,63.12
+"Kalimantan Utara",2013,NA
+"Sulawesi Utara",2013,75.55
+"Sulawesi Tengah",2013,68.59
+"Sulawesi Selatan",2013,64.42
+"Sulawesi Tenggara",2013,64.49
+"Gorontalo",2013,60.89
+"Sulawesi Barat",2013,64.47
+"Maluku",2013,79.93
+"Maluku Utara",2013,59.66
+"Papua Barat",2013,57.01
+"Papua",2013,57.22
+"Aceh",2014,65.12
+"Sumatera Utara",2014,66.69
+"Sumatera Barat",2014,61.86
+"Riau",2014,74.11
+"Jambi",2014,61.93
+"Sumatera Selatan",2014,70.2
+"Bengkulu",2014,68.76
+"Lampung",2014,62.99
+"Bangka Belitung",2014,56.12
+"Kepulauan Riau",2014,60.54
+"DKI Jakarta",2014,71.19
+"Jawa Barat",2014,68.87
+"Jawa Tengah",2014,74.46
+"DI Yogyakarta",2014,66.9
+"Jawa Timur",2014,68.17
+"Banten",2014,66.91
+"Bali",2014,62.25
+"Nusa Tenggara Barat",2014,57.49
+"Nusa Tenggara Timur",2014,63.06
+"Kalimantan Barat",2014,64.1
+"Kalimantan Tengah",2014,77.9
+"Kalimantan Selatan",2014,68.22
+"Kalimantan Timur",2014,53.74
+"Kalimantan Utara",2014,66.52
+"Sulawesi Utara",2014,76.15
+"Sulawesi Tengah",2014,65.11
+"Sulawesi Selatan",2014,66.76
+"Sulawesi Tenggara",2014,68.13
+"Gorontalo",2014,67.36
+"Sulawesi Barat",2014,67.14
+"Maluku",2014,76.99
+"Maluku Utara",2014,61.05
+"Papua Barat",2014,47.97
+"Papua",2014,64.21
+"Aceh",2015,65.57
+"Sumatera Utara",2015,67.81
+"Sumatera Barat",2015,62.42
+"Riau",2015,74.59
+"Jambi",2015,62.43
+"Sumatera Selatan",2015,70.36
+"Bengkulu",2015,68.86
+"Lampung",2015,62.01
+"Bangka Belitung",2015,56.29
+"Kepulauan Riau",2015,62.15
+"DKI Jakarta",2015,71.41
+"Jawa Barat",2015,69.02
+"Jawa Tengah",2015,74.8
+"DI Yogyakarta",2015,68.75
+"Jawa Timur",2015,68.41
+"Banten",2015,67.94
+"Bali",2015,62.99
+"Nusa Tenggara Barat",2015,58.69
+"Nusa Tenggara Timur",2015,64.75
+"Kalimantan Barat",2015,64.44
+"Kalimantan Tengah",2015,77.87
+"Kalimantan Selatan",2015,70.05
+"Kalimantan Timur",2015,55.96
+"Kalimantan Utara",2015,67.31
+"Sulawesi Utara",2015,79.82
+"Sulawesi Tengah",2015,65.57
+"Sulawesi Selatan",2015,67.98
+"Sulawesi Tenggara",2015,72.14
+"Gorontalo",2015,69.26
+"Sulawesi Barat",2015,69.4
+"Maluku",2015,77.15
+"Maluku Utara",2015,65.74
+"Papua Barat",2015,48.19
+"Papua",2015,63.69
+"Aceh",2016,67.4
+"Sumatera Utara",2016,69.07
+"Sumatera Barat",2016,64.51
+"Riau",2016,75.19
+"Jambi",2016,63.14
+"Sumatera Selatan",2016,70.69
+"Bengkulu",2016,71.09
+"Lampung",2016,61.98
+"Bangka Belitung",2016,51.69
+"Kepulauan Riau",2016,65.6
+"DKI Jakarta",2016,72.14
+"Jawa Barat",2016,71.15
+"Jawa Tengah",2016,74.89
+"DI Yogyakarta",2016,66.96
+"Jawa Timur",2016,69.06
+"Banten",2016,69.14
+"Bali",2016,63.97
+"Nusa Tenggara Barat",2016,60.06
+"Nusa Tenggara Timur",2016,65.07
+"Kalimantan Barat",2016,64.37
+"Kalimantan Tengah",2016,78.23
+"Kalimantan Selatan",2016,67.4
+"Kalimantan Timur",2016,56.93
+"Kalimantan Utara",2016,63.52
+"Sulawesi Utara",2016,81.24
+"Sulawesi Tengah",2016,70.05
+"Sulawesi Selatan",2016,70.02
+"Sulawesi Tenggara",2016,70.51
+"Gorontalo",2016,69.7
+"Sulawesi Barat",2016,71.71
+"Maluku",2016,77.36
+"Maluku Utara",2016,68.19
+"Papua Barat",2016,49.56
+"Papua",2016,64.73
+"Aceh",2017,66.28
+"Sumatera Utara",2017,69.29
+"Sumatera Barat",2017,65.01
+"Riau",2017,75.36
+"Jambi",2017,65.32
+"Sumatera Selatan",2017,73.53
+"Bengkulu",2017,71.4
+"Lampung",2017,63.6
+"Bangka Belitung",2017,54.91
+"Kepulauan Riau",2017,66.96
+"DKI Jakarta",2017,72.34
+"Jawa Barat",2017,70.04
+"Jawa Tengah",2017,75.1
+"DI Yogyakarta",2017,69.37
+"Jawa Timur",2017,69.37
+"Banten",2017,70
+"Bali",2017,63.76
+"Nusa Tenggara Barat",2017,59.95
+"Nusa Tenggara Timur",2017,63.76
+"Kalimantan Barat",2017,64.46
+"Kalimantan Tengah",2017,79.36
+"Kalimantan Selatan",2017,67.56
+"Kalimantan Timur",2017,56.64
+"Kalimantan Utara",2017,61.09
+"Sulawesi Utara",2017,82.37
+"Sulawesi Tengah",2017,70.38
+"Sulawesi Selatan",2017,70.57
+"Sulawesi Tenggara",2017,70.76
+"Gorontalo",2017,71.09
+"Sulawesi Barat",2017,73.37
+"Maluku",2017,78.87
+"Maluku Utara",2017,70.31
+"Papua Barat",2017,47.88
+"Papua",2017,61.89
+"Aceh",2018,66.6
+"Sumatera Utara",2018,71.29
+"Sumatera Barat",2018,65.7
+"Riau",2018,75.73
+"Jambi",2018,67.78
+"Sumatera Selatan",2018,74.37
+"Bengkulu",2018,69.6
+"Lampung",2018,63.82
+"Bangka Belitung",2018,52.57
+"Kepulauan Riau",2018,66.18
+"DKI Jakarta",2018,73.68
+"Jawa Barat",2018,70.2
+"Jawa Tengah",2018,74.03
+"DI Yogyakarta",2018,69.64
+"Jawa Timur",2018,69.71
+"Banten",2018,72.75
+"Bali",2018,64.18
+"Nusa Tenggara Barat",2018,60.56
+"Nusa Tenggara Timur",2018,65.86
+"Kalimantan Barat",2018,64.47
+"Kalimantan Tengah",2018,77.03
+"Kalimantan Selatan",2018,71.31
+"Kalimantan Timur",2018,57.53
+"Kalimantan Utara",2018,69.53
+"Sulawesi Utara",2018,80.91
+"Sulawesi Tengah",2018,73.95
+"Sulawesi Selatan",2018,69.14
+"Sulawesi Tenggara",2018,71.54
+"Gorontalo",2018,71.23
+"Sulawesi Barat",2018,71.95
+"Maluku",2018,77.77
+"Maluku Utara",2018,72.81
+"Papua Barat",2018,51.04
+"Papua",2018,68.71
+"dummy1",2010,NA
+"dummy2",2010,NA
+"dummy1",2011,NA
+"dummy2",2011,NA
+"dummy1",2012,NA
+"dummy2",2012,NA
+"dummy1",2013,NA
+"dummy2",2013,NA
+"dummy1",2014,NA
+"dummy2",2014,NA
+"dummy1",2015,NA
+"dummy2",2015,NA
+"dummy1",2016,NA
+"dummy2",2016,NA
+"dummy1",2017,NA
+"dummy2",2017,NA
+"dummy1",2018,NA
+"dummy2",2018,NA
